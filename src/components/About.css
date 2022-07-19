@@ -1,0 +1,51 @@
+.bungkus {
+    display: flex;
+    width: 100%;
+}
+
+.gambar,
+.tulisan {
+    width: 50%;
+}
+.foto {
+    height: 100vh;
+    width: 100%;
+}
+
+.tulisan {
+    
+    margin-top: 80px;
+}
+
+.tulisan h1 {
+    text-align: center;
+}
+
+.kanan {
+    text-align: start;
+}
+.kiri {
+    text-align: center;
+} 
+
+ h2 {
+
+    text-align: center;
+  }
+  
+  .item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+  
+  .kanan  {
+    text-align: left;
+    width: 25%;
+  }
+  
+  .kiri {
+    text-align: left;
+    width: 75%;
+  }
